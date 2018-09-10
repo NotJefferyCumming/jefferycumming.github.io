@@ -1,18 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-        <title>Jeffery</title>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-		<link rel="shortcut icon" href="favicon.ico">
-        <link href="styles.css" rel="stylesheet">
-    </head>
-    <body>
-	<font font="Fixedsys" color="#32CD32">
-		Loading /var/www/jefferycumming/index.html
-	    		running /etc/apache2/apache2
-	 </font>
 		<div class="grid">
             <div class="side">
                 &nbsp;
@@ -57,6 +42,3 @@
                 <hr/>
             </div>
         </div>
-    </body>
-</html>
-
