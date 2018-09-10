@@ -8,6 +8,18 @@
     font-style: normal;
 }
 
+#a {
+	color: #0f0;
+}
+
+#c {
+	color: #0bc;
+}
+	
+#b {
+	color: #ff0096;
+}
+
 *{
     font-family: Fixedsys, monospace;
     font-size: 16px !important;
