@@ -1,4 +1,4 @@
-	<span id="a">jeff@weisbein</span>:<span id="b">~</span><span id="c">$</span> cat jeffweisbein.txt
+	<span id="a">root@jeff</span>:<span id="b">~</span><span id="c">$</span> /etc/init.d/nginx start
 	<div class="grid">
     <div class="side">
      &nbsp;
@@ -41,3 +41,4 @@
                 <h2>Contact</h2>
                 <p class="text smaller padded"><b>Email: jeffery.cumming@students.coderva.org</b></p>
                 <hr/>
+				<span id="a">root@jeff</span>:<span id="b">~</span><span id="c">$</span> 
