@@ -41,4 +41,6 @@
                 <h2>Contact</h2>
                 <p class="text smaller padded"><b>Email: jeffery.cumming@students.coderva.org</b></p>
                 <hr/>
-				<span id="a">root@jeff</span>:<span id="b">~</span><span id="c">$</span> 
+	</div>
+    </div>
+<span id="a">root@jeff</span>:<span id="b">~</span><span id="c">$</span> 
