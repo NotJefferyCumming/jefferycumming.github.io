@@ -32,8 +32,8 @@ body, html{
     margin: 0;
     margin-left: 20px;
     height: 100%;
-    background: #1e1d23;
-    color: #91989f;
+    background: #000000;
+    color: #FFFFFF;
 }
 a{
     color: #8c9440 !important;
