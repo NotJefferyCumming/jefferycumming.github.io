@@ -1,11 +1,11 @@
-	<span id="a">root@jeff</span>:<span id="b">~</span><span id="c">$</span> /etc/init.d/nginx start
-	<div class="grid">
-    <div class="side">
-     &nbsp;
-    </div>
-    <div class="content">
-				<div class="header">
-                  <h1>Jeffery Cumming</h1>
+<span id="a">root@jeff</span>:<span id="b">~</span><span id="c">$</span> /etc/init.d/nginx start
+<div class="grid">
+	<div class="side">
+     		&nbsp;
+    	</div>
+    	<div class="content">
+		<div class="header">
+                	<h1>Jeffery Cumming</h1>
                 </div>
 
                 <h2>About Me</h2>
