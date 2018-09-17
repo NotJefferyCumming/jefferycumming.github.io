@@ -15,11 +15,11 @@
 
                 <h2>Projects</h2>
                     <ul>
-                        <li><a href="">Mothership Administator</a> - This is a cilent to server application built to have a cilent connect to a server so the cilent doesnt need to be port forwarded.</li>
-                        <li><a href="">Simple Crypt</a> - A simple python script for encrypting .</li>
-                        <li><a href="">Mailblaster</a> - Send emails to a mailing list.</li>
+                        <li><a href="https://notabug.org/Dynomite54/Mothership-Administartor">Mothership Administator</a> - This is a cilent to server application built to have a cilent connect to a server so the cilent doesnt need to be port forwarded.</li>
+                        <li><a href="https://notabug.org/Dynomite54/Simplecrypt">Simple Crypt</a> - A simple python script for encrypting .</li>
+                        <li><a href="https://notabug.org/Dynomite54/Discord-Twitch-Notifaction-Bot">Mailblaster</a> - Send emails to a mailing list.</li>
                         <li><a href="">Twitch Notifacation Discord Bot</a> - This is a bot made for discord that will send a message in a server when a streamer of choice goes live.</li>
-                        <li>Various other <a href="/useful/">configs, scripts & guides</a>.</li>
+                        <li>Various other <a href="https://notabug.org/Dynomite54/Configs-and-Scripts">configs, scripts & guides</a>.</li>
                     </ul>
                 <hr/>
 
