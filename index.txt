@@ -9,7 +9,7 @@
                 </div>
 
                 <h2>About Me</h2>
-                <p class="text padded"> dev / sysadmin / student / pen tester</p>
+                <p class="text padded"> dev / sysadmin / student / pen tester /<a href="me.html">me</a></p>
                 <p class="text padded">I am a full time student at CodeRVA and ECPI and I work on projects in when I can.</p>
 
                 <hr/>
