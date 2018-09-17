@@ -36,10 +36,10 @@ body, html{
     color: #FFFFFF;
 }
 a{
-    color: #0bc !important;
+    color: #0f0 !important;
 }
 b, strong{
-    color: #a52021;
+    color: #0bc;
     font-weight: normal;
 }
 p{
@@ -52,7 +52,7 @@ hr{
     margin-top: 24px;
     margin-bottom: 24px;
     border: none;
-    border-top: 1px solid #0f0;
+    border-top: 1px solid #ff0096;
     width: 97%;
 }
 ul {
