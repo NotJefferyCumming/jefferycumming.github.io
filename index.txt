@@ -32,15 +32,15 @@
                     <ul>
                         <li><a href="https://www.amazon.com/Learning-Korn-Shell-Unix-Programming-ebook/dp/B00CT3C4IW/ref=sr_1_sc_2?ie=UTF8&qid=1536585815&sr=8-2-spell&keywords=Korn+Shell+orilley">Learning the Korn Shell: Unix Programming</a> - A great book by Arnold Robbins and Bill Rosenblatt that explains the Korn Shell (ksh) very well witch can be applied to zsh.</li>
                         <li><a href="https://www.amazon.com/Managing-NFS-NIS-System-Administrators-ebook/dp/B0043EWV6U/ref=sr_1_1?ie=UTF8&qid=1536587083&sr=8-1&keywords=NFS+and+NIS">Managing NFS and NIS: For Unix System Administrators</a> - This book well descripes Network storage for sun systems and Network Information Services, As it may be out of date now it gets the main points of it across.</li>
-                        <li><a href="https://www.amazon.com/DNS-BIND-5th-Cricket-Liu/dp/0596100574/ref=sr_1_1?ie=UTF8&qid=1536588679&sr=8-1&keywords=dns+and+bind">DNS and BIND (5th Edition)</a> - .</li>
-                        <li><a href="https://www.amazon.com/Managing-UUCP-Usenet-Nutshell-Book/dp/0937175935/ref=sr_1_2?ie=UTF8&qid=1536589028&sr=8-2&keywords=uucp">Managing UUCP and Usenet</a> - .</li>
+                        <li><a href="https://www.amazon.com/DNS-BIND-5th-Cricket-Liu/dp/0596100574/ref=sr_1_1?ie=UTF8&qid=1536588679&sr=8-1&keywords=dns+and+bind">DNS and BIND (5th Edition)</a> - Great book that holds most of its information well. The only problem I have is that all of the secruity related information is out dated.</li>
+                        <li><a href="https://www.amazon.com/Managing-UUCP-Usenet-Nutshell-Book/dp/0937175935/ref=sr_1_2?ie=UTF8&qid=1536589028&sr=8-2&keywords=uucp">Managing UUCP and Usenet</a> - This book is extreamly out dated for the main fact no one uses modems to connect to usenets any more. Nonetheless its still a intresting book explaining how to manage a usenet.</li>
 						<li><a href="https://www.amazon.com/Algorithms-Nutshell-OReilly-George-Heineman/dp/059651624X/ref=sr_1_2?ie=UTF8&qid=1536589051&sr=8-2&keywords=algorithms+in+a+nutshell">Algorithms in a nutshell</a> - .</li>
                         <li><a href="https://www.amazon.com/Applied-Reliability-Paul-Tobias/dp/1584884665/ref=sr_1_1?ie=UTF8&qid=1536589120&sr=8-1&keywords=Applied+Reliability">Applied Reliability</a> - .</li>
                     </ul>
-                <hr/>
-				
+                <hr/>	
                 <h2>Contact</h2>
                 <p class="text smaller padded"><b>Email: jeffery.cumming@students.coderva.org</b></p>
+                <p class="text smaller padded"><b>Email: jefcum2690@students.ecpi.edu</b></p>
                 <hr/>
 	</div>
     </div>
